@@ -6,6 +6,8 @@ header{
 }
 
 #wrapper{
+    /*ここの横幅指定を漏らしていた*/
+    width: 1000px;
     display: flex;
 }
 
